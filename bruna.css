@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "Bruna";
+  src: url('https://cdn.jsdelivr.net/gh/evaaaaa74/bruna-font/Bruna-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bruna";
+  src: url('https://cdn.jsdelivr.net/gh/evaaaaa74/bruna-font/Bruna-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bruna";
+  src: url('https://cdn.jsdelivr.net/gh/evaaaaa74/bruna-font/Bruna-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bruna";
+  src: url('https://cdn.jsdelivr.net/gh/evaaaaa74/bruna-font/Bruna-RegularItalic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bruna";
+  src: url('https://cdn.jsdelivr.net/gh/evaaaaa74/bruna-font/Bruna-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bruna";
+  src: url('https://cdn.jsdelivr.net/gh/evaaaaa74/bruna-font/Bruna-BoldItalic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bruna";
+  src: url('https://cdn.jsdelivr.net/gh/evaaaaa74/bruna-font/Bruna-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bruna";
+  src: url('https://cdn.jsdelivr.net/gh/evaaaaa74/bruna-font/Bruna-BlackItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+}
