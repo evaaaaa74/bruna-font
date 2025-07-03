@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Bruna";
+  src: url("https://raw.githubusercontent.com/evaaaaa74/bruna-font/main/Bruna-Black.woff")
+       format("woff");
+  font-weight: 900;        /* Black */
+  font-style: normal;
+}
+
+/* Exemple pour Bruna Regular
+@font-face {
+  font-family: "Bruna";
+  src: url("https://raw.githubusercontent.com/evaaaaa74/bruna-font/main/Bruna-Regular.woff")
+       format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+*/
